@@ -1,4 +1,4 @@
-# Salom, dunyo! 👋 Men Diyorbekman
+# Salom! 👋 Men Diyorbekman
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile views" />
 
