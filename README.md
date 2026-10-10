@@ -40,4 +40,5 @@
 
 ### 🌐 Bog'lanish
 
-* 🏫 **O'qish joyi:** 23-o'rta ta'lim maktabi
+* gmail:dsodiqjonovich@gmail.com
+  
